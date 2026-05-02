@@ -1,6 +1,5 @@
 import random
 
-
 def print_func(printable):
     print(printable)
 
